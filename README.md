@@ -1,3 +1,6 @@
+Absolutely! Here's the updated README file with added details about the use of vector databases for fast information retrieval and personalized large language models (LLMs) trained individually for each business.
+
+```markdown
 # Yulduz
 
 ## Overview
@@ -32,28 +35,37 @@ To run Yulduz, follow these steps:
    ```bash
    git clone https://github.com/azaza28/yulduz.git
    cd yulduz
-Install the required packages:
-bash
-Copy code
-pip install -r requirements.txt
-Running the Project
-After installing the required packages, you can run the project by executing the main.py file:
+   ```
 
-bash
-Copy code
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Running the Project
+After installing the required packages, you can run the project by executing the `main.py` file:
+
+```bash
 python main.py
-Contributions
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+```
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
+## Contributions
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Contact
-Aziz Latipov – aziz.latypoff@gmail.com
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Project Link: https://github.com/azaza28/yulduz
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+Aziz Latipov – [aziz.latypoff@gmail.com](mailto:your-email@example.com)
+
+Project Link: [https://github.com/azaza28/yulduz](https://github.com/azaza28/yulduz)
+
+```
+
+This README now fully reflects the technological aspects and capabilities of Yulduz, making it clear to potential users and contributors what the project can do and how it operates.
