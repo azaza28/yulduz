@@ -1,6 +1,3 @@
-Absolutely! Here's the updated README file with added details about the use of vector databases for fast information retrieval and personalized large language models (LLMs) trained individually for each business.
-
-```markdown
 # Yulduz
 
 ## Overview
