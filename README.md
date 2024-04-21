@@ -57,8 +57,3 @@ Contact
 Aziz Latipov – aziz.latypoff@gmail.com
 
 Project Link: https://github.com/azaza28/yulduz
-
-arduino
-Copy code
-
-This README now fully reflects the technological aspects and capabilities of Yul
